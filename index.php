@@ -88,7 +88,7 @@
 <?php
   // open current directory 
   $rootDir = opendir(".");
-  $dirArray = [];
+  $dirArray = array();
   // get each entry
   while($element = readdir($rootDir)) {
     // exclude files and hidden folders
