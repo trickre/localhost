@@ -2,7 +2,8 @@
 
 # Local server directory listing
 
-Just a script to "beautify" your local server.
+Just a script to "beautify" your local server
+and support to admin your project.
 
 ##Installation
 to install drop index.php to the root of your local server.
